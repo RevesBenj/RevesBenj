@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benj</h1>
+<h1 align="center">👋Hi, I'm Benj</h1>
 I am a software engineer with strong experience building enterprise systems, especially in banking and financial services.<br><br>My main focus is backend development using C#, .NET, and SQL Server, where I design systems that are stable, scalable, and efficient.<br><br>Currently, I am completing a Master of Software Engineering in Auckland, while expanding my skills into Python, Django, Docker, and modern web systems.<br><br>I enjoy solving real-world problems like:<br><br>Improving system performance<br>Automating manual processes<br>Designing reliable backend architectures
 
 
